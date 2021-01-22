@@ -1,0 +1,29 @@
+{
+  "name": "gulp-code-copy",
+  "version": "1.0.0",
+  "description": "Code snippets copy and past",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafikalid/gulp-code-copy.git"
+  },
+  "keywords": [
+    "code",
+    "snippets",
+    "code",
+    "copy",
+    "past"
+  ],
+  "author": "khalid RAFIK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafikalid/gulp-code-copy/issues"
+  },
+  "homepage": "https://github.com/rafikalid/gulp-code-copy#readme",
+  "devDependencies": {
+    "gulp-gridfw": "^1.0.2"
+  }
+}
